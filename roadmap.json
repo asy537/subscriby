@@ -19,7 +19,7 @@
     },
     {
       "id": "icloud_backup",
-      "status": "planned",
+      "status": "in_progress",
       "title": {
         "tr": "iCloud Yedekleme",
         "en": "iCloud Backup",
@@ -35,7 +35,7 @@
     },
     {
       "id": "custom_themes",
-      "status": "in_progress",
+      "status": "planned",
       "title": {
         "tr": "Özel Temalar",
         "en": "Custom Themes",
