@@ -1,0 +1,133 @@
+{
+  "last_updated": "2026-01-29",
+  "features": [
+    {
+      "id": "app_store_search",
+      "status": "completed",
+      "title": {
+        "tr": "App Store Abonelik Servisi Arama",
+        "en": "App Store Subscription Service Search",
+        "de": "Suche nach App Store Abo-Diensten",
+        "es": "Buscar servicios de suscripción en App Store",
+        "fr": "Recherche de services d'abonnement App Store",
+        "it": "Cerca servizi di abbonamento su App Store",
+        "ja": "App Storeサブスクリプションサービスの検索",
+        "pt": "Pesquisar serviços de assinatura da App Store",
+        "ru": "Поиск сервисов подписки в App Store",
+        "zh": "App Store 订阅服务搜索"
+      }
+    },
+    {
+      "id": "icloud_backup",
+      "status": "planned",
+      "title": {
+        "tr": "iCloud Yedekleme",
+        "en": "iCloud Backup",
+        "de": "iCloud-Backup",
+        "es": "Respaldo en iCloud",
+        "fr": "Sauvegarde iCloud",
+        "it": "Backup su iCloud",
+        "ja": "iCloudバックアップ",
+        "pt": "Backup do iCloud",
+        "ru": "Резервное копирование iCloud",
+        "zh": "iCloud 备份"
+      }
+    },
+    {
+      "id": "custom_themes",
+      "status": "in_progress",
+      "title": {
+        "tr": "Özel Temalar",
+        "en": "Custom Themes",
+        "de": "Eigene Themes",
+        "es": "Temas personalizados",
+        "fr": "Thèmes personnalisés",
+        "it": "Temi personalizzati",
+        "ja": "カスタムテーマ",
+        "pt": "Temas personalizados",
+        "ru": "Пользовательские темы",
+        "zh": "自定义主题"
+      }
+    },
+    {
+      "id": "bulk_import_export",
+      "status": "planned",
+      "title": {
+        "tr": "Toplu İçe ve Dışa Aktar",
+        "en": "Bulk Import & Export",
+        "de": "Massenimport & -export",
+        "es": "Importación y exportación masiva",
+        "fr": "Importation et exportation en masse",
+        "it": "Importazione ed esportazione di massa",
+        "ja": "一括インポート・エクスポート",
+        "pt": "Importação e exportação em massa",
+        "ru": "Массовый импорт и экспорт",
+        "zh": "批量导入和导出"
+      }
+    },
+    {
+      "id": "advanced_reports",
+      "status": "planned",
+      "title": {
+        "tr": "Gelişmiş Raporlar ve Filtreleme",
+        "en": "Advanced Reports & Filtering",
+        "de": "Erweiterte Berichte & Filterung",
+        "es": "Informes y filtros avanzados",
+        "fr": "Rapports et filtrage avancés",
+        "it": "Report e filtri avanzati",
+        "ja": "高度なレポートとフィルタリング",
+        "pt": "Relatórios e filtragem avançada",
+        "ru": "Расширенные отчеты и фильтрация",
+        "zh": "高级报告和过滤"
+      }
+    },
+    {
+      "id": "custom_categories",
+      "status": "completed",
+      "title": {
+        "tr": "Özelleştirilebilir Kategori ve Ödeme Yöntemleri",
+        "en": "Customizable Categories & Payment Methods",
+        "de": "Anpassbare Kategorien & Zahlungsmethoden",
+        "es": "Categorías y métodos de pago personalizables",
+        "fr": "Catégories et méthodes de paiement personnalisables",
+        "it": "Categorie e metodi di pagamento personalizzabili",
+        "ja": "カスタマイズ可能なカテゴリと支払い方法",
+        "pt": "Categorias e métodos de pagamento personalizáveis",
+        "ru": "Настраиваемые категории и способы оплаты",
+        "zh": "可自定义的类别和付款方式"
+      }
+    },
+    {
+      "id": "price_history",
+      "status": "completed",
+      "title": {
+        "tr": "Gelişmiş Fiyat Geçmişi",
+        "en": "Advanced Price History",
+        "de": "Erweiterter Preisverlauf",
+        "es": "Historial de precios avanzado",
+        "fr": "Historique des prix avancé",
+        "it": "Cronologia prezzi avanzata",
+        "ja": "高度な価格履歴",
+        "pt": "Histórico de preços avanzado",
+        "ru": "Расширенная история цен",
+        "zh": "高级价格历史"
+      }
+    },
+    {
+      "id": "multi_notifications",
+      "status": "completed",
+      "title": {
+        "tr": "Çoklu Bildirimler",
+        "en": "Multiple Notifications",
+        "de": "Mehrfache Benachrichtigungen",
+        "es": "Notificaciones múltiples",
+        "fr": "Notifications multiples",
+        "it": "Notifiche multiple",
+        "ja": "マルチ通知",
+        "pt": "Notificações múltiplas",
+        "ru": "Множественные уведомления",
+        "zh": "多重通知"
+      }
+    }
+  ]
+}
