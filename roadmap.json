@@ -130,19 +130,20 @@
       }
     },
     {
-  "id": "homepage_widget",
-  "status": "planned",
-  "title": {
-    "tr": "Anasayfa Widget",
-    "en": "Homepage Widget",
-    "de": "Startseiten-Widget",
-    "es": "Widget de inicio",
-    "fr": "Widget d'accueil",
-    "it": "Widget Home",
-    "ja": "ホームウィジェット",
-    "pt": "Widget da tela inicial",
-    "ru": "Виджет главной страницы",
-    "zh": "主页小组件"
-  }
+        "id": "homepage_widget",
+        "status": "planned",
+        "title": {
+            "tr": "Anasayfa Widget",
+            "en": "Homepage Widget",
+            "de": "Startseiten-Widget",
+            "es": "Widget de inicio",
+            "fr": "Widget d'accueil",
+            "it": "Widget Home",
+            "ja": "ホームウィジェット",
+            "pt": "Widget da tela inicial",
+            "ru": "Виджет главной страницы",
+            "zh": "主页小组件"
+        }
+    }
   ]
 }
