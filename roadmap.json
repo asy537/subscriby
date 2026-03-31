@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19",
+  "last_updated": "2026-03-29",
   "features": [
     {
       "id": "app_store_search",
@@ -131,7 +131,7 @@
     },
     {
         "id": "homepage_widget",
-        "status": "planned",
+        "status": "completed",
         "title": {
             "tr": "Anasayfa Widget",
             "en": "Homepage Widget",
